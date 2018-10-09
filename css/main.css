@@ -51,7 +51,7 @@ body {
 /* Links
 ---------------------------------------------------------------------- */
 a, a:visited {
-	color: #f26522;
+	color: #03011f;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -219,7 +219,7 @@ dl {
 }
 dt {
 	margin: 0;
-	color: #f26522;
+	color: #1c0444;
 }
 dd {
 	margin: 0 0 0 20px;
@@ -333,7 +333,7 @@ input[type="checkbox"] {
 	border-top: 1.1em solid rgba(255, 255, 255, 0.2);
 	border-right: 1.1em solid rgba(255, 255, 255, 0.2);
 	border-bottom: 1.1em solid rgba(255, 255, 255, 0.2);
-	border-left: 1.1em solid #f26522;
+	border-left: 1.1em solid #0e0222;
 	-webkit-animation: load 1.1s infinite linear;
 	animation: load 1.1s infinite linear;
 }
@@ -410,10 +410,10 @@ input[type="button"]:hover {
 	color: white;
 }
 .button.primary, button.primary {
-	background: #f26522;
+	background: #0e0222;
 }
 .button.primary:hover, button.primary:hover {
-	background: #e3520d;
+	background: #0e0222;
 }
 button.medium, .button.medium {
 	font: 15px/30px "raleway-bold", sans-serif;
@@ -487,10 +487,10 @@ button.full-width, .button.full-width {
 	background: #a970c1;
 }
 .button.orange {
-	background: #f5731c;
+	background: #0e0222;
 }
 .button.orange:hover {
-	background-color: #ed650a;
+	background-color: #0e0222;
 }
 .button.stroke.pink {
 	border-color: #ffadcb;
@@ -557,8 +557,8 @@ button.full-width, .button.full-width {
 	color: #fff;
 }
 .button.stroke.orange {
-	border-color: #f5731c;
-	color: #f5731c;
+	border-color: #0e0222;
+	color: #0e0222;
 }
 .button.stroke.orange:hover {
 	background: #f5731c !important;
@@ -733,7 +733,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #252525;
 }
 .stats-tabs li a:hover {
-	color: #f26522;
+	color: #0e0222;
 }
 .stats-tabs li a em {
 	display: block;
@@ -776,7 +776,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: white;
 }
 .pagination .current, .pagination .current:hover {
-	background-color: #f26522;
+	background-color: #0e0222;
 	color: white;
 }
 .pagination .inactive, .pagination .inactive:hover {
@@ -1397,7 +1397,7 @@ hr {
 #hero-slider .flex-caption .button.stroke:hover {
 	color: white;
 	text-shadow: none;
-	background: #d44d0d !important;
+	background: #447bf1 !important;
 }
 
 /* Slider Control Nav */
@@ -1676,7 +1676,7 @@ hr {
 /*  o. Journal Section
 /* =================================================================== */
 #journal {
-	background: #a43b0a url(../images/blog-bg.jpg) no-repeat bottom center fixed;
+	background: #0e0222 url(../images/blog-bg.jpg) no-repeat bottom center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
@@ -1948,21 +1948,21 @@ hr {
 	width: 100%;
 }
 #comments form span.required {
-	color: #f26522;
+	color: #0e0222;
 	font-size: 15px;
 }
 #comments form button {
 	padding-left: 24px;
 	padding-right: 24px;
-	color: #f26522 !important;
-	border-color: #f26522 !important;
+	color: #0e0222 !important;
+	border-color: #0e0222 !important;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	margin: 0;
 }
 #comments form button:hover {
 	color: white !important;
-	background: #f26522 !important;
+	background: #0e0222 !important;
 }
 
 
