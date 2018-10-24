@@ -1712,6 +1712,27 @@ hr {
 
 
 /* 
+/*  p. News Section
+/* =================================================================== */
+#news {
+	background: #12151b;
+	padding-top: 120px;
+	padding-bottom: 102px;
+	overflow: hidden;
+}
+#news .row {
+	max-width: 784px;
+}
+#news h1 {
+	color: white;
+}
+#news hr {
+	color: white;
+}
+
+
+
+/* 
 /*  p. Contact Section
 /* =================================================================== */
 #contact {
