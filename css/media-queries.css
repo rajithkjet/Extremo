@@ -337,6 +337,18 @@
 	}
 
 
+	#t1 {
+	    margin: 23px -62px;
+    position: absolute !important;
+	}
+
+	#t2{
+
+	    margin: -20px -63px 4px !important;
+    position: absolute;
+
+	}
+
 } /* 600 */
 
 

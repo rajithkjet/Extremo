@@ -440,6 +440,7 @@ img {
 	[class*="column"] + [class*="column"]:last-child {
 		float: none;
 	}
+
 }
 
 /* larger screens
@@ -557,6 +558,8 @@ different heights to align properly. */
 	.mob-bgrid-sixth .bgrid:nth-child(6n+1), .mob-bgrid-fourth .bgrid:nth-child(4n+1), .mob-bgrid-third .bgrid:nth-child(3n+1), .mob-bgrid-half .bgrid:nth-child(2n+1) {
 		clear: both;
 	}
+
+
 }
 
 /* stack on small mobile devices */
